@@ -1,6 +1,6 @@
 
 
-# Terraform AKS (mecha-buda)
+# Terraform AKS Blueprint
 
 Terraform configuration to create the `mecha-buda` AKS environment.
 
