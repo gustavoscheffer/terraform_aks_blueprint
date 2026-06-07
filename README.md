@@ -2,6 +2,8 @@
 
 # Terraform AKS Blueprint
 
+Repository: https://github.com/gustavoscheffer/terraform_aks_blueprint
+
 Terraform configuration to create the `mecha-buda` AKS environment.
 
 ## Project layout
